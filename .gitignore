@@ -127,8 +127,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-notebooks/EDA.ipynb
-person-name.ver1.0.txt
-requirements.txt
 
 
