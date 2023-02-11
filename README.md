@@ -20,7 +20,7 @@ print(en2mm("Min Khant Maung Maung"))
 
 ## Acknowledgment
 
-<p>I use the [data](https://github.com/ye-kyaw-thu/myRoman/blob/main/person-name/person-name.ver1.0.txt) from Sayar <b>Ye Kyaw Thu</b> and I inspired the work from Ko Htain Linn Shwe's [repo](https://github.com/saturngod/myanmar_names). I also used Burmese syllable segmentation code from Sayar Ye Kyaw Thu's [code](https://github.com/ye-kyaw-thu/myWord/blob/main/syl_segment.py). </p>
+I use the [data](https://github.com/ye-kyaw-thu/myRoman/blob/main/person-name/person-name.ver1.0.txt) from Sayar <b>Ye Kyaw Thu</b> and I inspired the work from Ko Htain Linn Shwe's [repo](https://github.com/saturngod/myanmar_names). I also used Burmese syllable segmentation code from Sayar Ye Kyaw Thu's [code](https://github.com/ye-kyaw-thu/myWord/blob/main/syl_segment.py). 
 
 <p>I just make some EDA and want to do some improvment for name conversion method.</p>
 
