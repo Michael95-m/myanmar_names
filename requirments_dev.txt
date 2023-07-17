@@ -1,0 +1,21 @@
+-i https://pypi.org/simple
+astroid==2.15.6 ; python_full_version >= '3.7.2'
+black==23.7.0
+click==8.1.5 ; python_version >= '3.7'
+dill==0.3.6 ; python_version < '3.11'
+exceptiongroup==1.1.2 ; python_version < '3.11'
+iniconfig==2.0.0 ; python_version >= '3.7'
+isort==5.12.0
+lazy-object-proxy==1.9.0 ; python_version >= '3.7'
+mccabe==0.7.0 ; python_version >= '3.6'
+mypy-extensions==1.0.0 ; python_version >= '3.5'
+packaging==23.1 ; python_version >= '3.7'
+pathspec==0.11.1 ; python_version >= '3.7'
+platformdirs==3.9.1 ; python_version >= '3.7'
+pluggy==1.2.0 ; python_version >= '3.7'
+pylint==2.17.4
+pytest==7.4.0
+tomli==2.0.1 ; python_version < '3.11'
+tomlkit==0.11.8 ; python_version >= '3.7'
+typing-extensions==4.7.1 ; python_version < '3.10'
+wrapt==1.15.0 ; python_version < '3.11'
