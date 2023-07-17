@@ -20,6 +20,21 @@ print(converter.en2mm("Min Khant Maung Maung"))
 ## 'မင်း ခန့် မောင် မောင်'
 ```
 
+### Makefile
+
+You can setup enviroments and automate quality checks and test cases by using **make**
+
+```bash
+## enviroment setup
+make setup
+
+## quality check
+make quality_check
+
+## unit test
+make test
+```
+
 ## Acknowledgment
 
 I use the [data](https://github.com/ye-kyaw-thu/myRoman/blob/main/person-name/person-name.ver1.0.txt) from Sayar <b>Ye Kyaw Thu repo</b> and I inspired the work from Ko Htain Linn Shwe's [repo](https://github.com/saturngod/myanmar_names). I also used Burmese syllable segmentation code from Sayar Ye Kyaw Thu's [code](https://github.com/ye-kyaw-thu/myWord/blob/main/syl_segment.py). 
