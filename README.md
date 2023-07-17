@@ -9,12 +9,14 @@
 ## Usage
 
 ```Python
-from mm_names.convert import mm2en, en2mm
+from mm_names.convert import Converter
 
-print(mm2en("မင်းခန့်မောင်မောင်")) 
+converter = Converter()
+
+print(converter.mm2en("မင်းခန့်မောင်မောင်")) 
 ## 'min khant maung maung'
 
-print(en2mm("Min Khant Maung Maung"))
+print(converter.en2mm("Min Khant Maung Maung"))
 ## 'မင်း ခန့် မောင် မောင်'
 ```
 
